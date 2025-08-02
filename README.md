@@ -34,8 +34,8 @@ User-friendly command-line interface
 To run this game, ensure you have Python 3.x installed on your system. No additional libraries are required.
 
 1. Clone the repository:
-git clone https://github.com/pravesh-it/Snake_Water_Gun_Project.git
-cd Snake_Water_Gun_Project
+git clone https://github.com/pravesh-it/Snake-Water-Gun-Project.git
+cd Snake-Water-Gun-Project
 2. Run the project
 python main.py
 python main_code_in_shortcut.py
